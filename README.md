@@ -3,7 +3,7 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
+Autor: David Prados Ponce3
 
 
 Fecha: 
