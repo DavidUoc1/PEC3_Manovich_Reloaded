@@ -22,7 +22,8 @@ Fecha: 18/05/2024
 Kahoot es una plataforma y aplicación móvil de enseñanza que permite, mediante preguntas y respuestas a modo de juego, repasar conceptos de la temática que se desee. También permite crear por parte del profesor una serie de preguntas, de las materias que consideren y con los materiales de referencia correspondientes, para que los alumnos las respondan en un tiempo determinado. Una vez respondida cada pregunta y al finalizarlas todas se ofrecerán una serie de estadísticas de aciertos a modo de competición.
 
 ## Re-descubriendo la hibridacion: Uber
-![Uber_Logo_White_RGB_](https://github.com/DavidUoc1/PEC3_Manovich_Reloaded/assets/169718411/c5d4cc77-1f77-4e8c-a3ff-7759f0c2d1f0)
+![Uber_Logo_Black_RGB_](https://github.com/DavidUoc1/PEC3_Manovich_Reloaded/assets/169718411/74b171ef-34f4-408a-900a-cd6ff3669b5b)
+
 
 
 
