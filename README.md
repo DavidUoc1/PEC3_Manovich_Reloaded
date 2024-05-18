@@ -24,12 +24,7 @@ Kahoot es una plataforma y aplicación móvil de enseñanza que permite, mediant
 ## Re-descubriendo la hibridacion: Uber
 ![Uber_Logo_Black_RGB_](https://github.com/DavidUoc1/PEC3_Manovich_Reloaded/assets/169718411/74b171ef-34f4-408a-900a-cd6ff3669b5b)
 
-
-
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Uber es una plataforma web y aplicación móvil que en su forma primigenia e innovadora vino a revolucionar el transporte de pasajeros en las ciudades. Nació como competencia al servicio de taxis con funcionalidades ampliadas respecto a estos. Para ello, la herramienta sobre la que estableció la base de su éxito fue la aplicación móvil desde la que se puede solicitar el servicio de transporte desde un punto a otro de la ciudad. Esta aplicación incorpora ciertas características que supusieron una gran mejora en cuanto a la comodidad del usuario relativas a las circunstancias relacionadas con el viaje. 
 
 ### Referencias y Bibliografía
 
