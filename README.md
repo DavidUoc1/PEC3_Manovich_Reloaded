@@ -33,7 +33,7 @@ Los medios que incorpora Kahoot son los siguientes:
 -	Preguntas y respuestas.
 -	Sistema de juego por el que interaccionan los usuarios.
 
-En este caso y partiendo de los medios descritos anteriormente podría parecer que se está produciendo más que una hibridación, la conformación de una plataforma multimedia debido a la yuxtaposición de los distintos medios. Esto no es así debido a que en Kahoot la combinación de la técnica de enseñanza de realizar preguntas y respuestas como metodología de memorización, se ha combinado con la *“gamificación”* para converger en un nuevo medio con partes de las características de los medios originales que lo conforman.
+En este caso y partiendo de los medios descritos anteriormente podría parecer que se está produciendo más que una hibridación, la conformación de una plataforma multimedia debido a la yuxtaposición de los distintos medios. Esto no es así debido a que en Kahoot la combinación de la técnica de enseñanza de realizar preguntas y respuestas como metodología de memorización, se ha combinado con la “gamificación” para converger en un nuevo medio con partes de las características de los medios originales que lo conforman. Por ello, podríamos definir Kahoot como una evolución del medio en el ámbito de las aplicaciones educativas.
 
 En Kahoot se ha identificado el tipo hibridación como representación híbrida. Esto se debe a que combina las preguntas y respuestas usadas como técnica de estudio habitualmente en la educación con la interfaz que implementa el sistema de juego y premios que pueden ver todos los usuarios. El uso de preguntas y respuestas ha sido un sido un método de estudio y repaso que siempre se ha usado en la docencia. Por otro lado, con el auge de los videojuegos se ha potenciado la competencia y la necesidad de superar desafíos para que los jugadores encuentren satisfacción en dichos juegos. Al combinar estas dos características, en principio tan dispares, en un único medio se consigue llegar a la hibridación. 
 
@@ -44,7 +44,19 @@ Es hibridación y no multimedia ya que el resultado final es una mezcla de los d
 ## Re-descubriendo la hibridacion: Uber
 ![Uber_Logo_Black_RGB_](https://github.com/DavidUoc1/PEC3_Manovich_Reloaded/assets/169718411/74b171ef-34f4-408a-900a-cd6ff3669b5b)
 
-Uber es una plataforma web y aplicación móvil que en su forma primigenia e innovadora vino a revolucionar el transporte de pasajeros en las ciudades. Nació como competencia al servicio de taxis con funcionalidades ampliadas respecto a estos. Para ello, la herramienta sobre la que estableció la base de su éxito fue la aplicación móvil desde la que se puede solicitar el servicio de transporte desde un punto a otro de la ciudad. Esta aplicación incorpora ciertas características que supusieron una gran mejora en cuanto a la comodidad del usuario relativas a las circunstancias relacionadas con el viaje. 
+**Uber** es una plataforma web y aplicación móvil que en su forma primigenia e innovadora vino a revolucionar el transporte de pasajeros en las ciudades. Nació como competencia al servicio de taxis con funcionalidades ampliadas respecto a estos. Para ello, la herramienta sobre la que estableció la base de su éxito fue la aplicación móvil desde la que se puede solicitar el servicio de transporte desde un punto a otro de la ciudad. Esta aplicación incorpora ciertas características que supusieron una gran mejora en cuanto a la comodidad del usuario relativas a las circunstancias relacionadas con el viaje. 
+
+Aunque originalmente Uber se circunscribía sólo a los viajes, posteriormente añadió la funcionalidad de poder pedir comida a domicilio. Con ello, amplió el volumen de interacción con los usuarios y aumentó los servicios que podía prestar.
+
+Los medios que incorpora Uber son los siguientes:
+-	Mapas 2d.
+-	Información de geolocalización tanto del vehículo como del usuario.
+-	Sistema de cálculo de rutas.
+-	Gestión de pagos.
+-	Sistema colaborativo de reseñas.
+
+
+>*“los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes. En este caso el tipo de medio en sí ni se modifica ni se combina con otros, sino que la hibridación se produce en la interfaz de usuario y las herramientas que facilita el proyecto, servicio o aplicación para trabajar con ese tipo de medios”* (Manovich, 2013)
 
 ### Referencias y Bibliografía
 
