@@ -44,7 +44,7 @@ Es hibridación y no multimedia ya que el resultado final es una mezcla de los d
 ## Re-descubriendo la hibridacion: Uber
 ![Uber_Logo_Black_RGB_](https://github.com/DavidUoc1/PEC3_Manovich_Reloaded/assets/169718411/74b171ef-34f4-408a-900a-cd6ff3669b5b)
 
-**Uber** es una plataforma web y aplicación móvil que en su forma primigenia e innovadora vino a revolucionar el transporte de pasajeros en las ciudades. Nació como competencia al servicio de taxis con funcionalidades ampliadas respecto a estos. Para ello, la herramienta sobre la que estableció la base de su éxito fue la aplicación móvil desde la que se puede solicitar el servicio de transporte desde un punto a otro de la ciudad. Esta aplicación incorpora ciertas características que supusieron una gran mejora en cuanto a la comodidad del usuario relativas a las circunstancias relacionadas con el viaje. 
+**Uber** es una plataforma web y aplicación móvil que en su forma primigenia e innovadora vino a revolucionar el transporte de pasajeros en las ciudades. Nació como competencia al servicio de taxis con funcionalidades ampliadas respecto a estos. Para ello, la herramienta sobre la que estableció la base de su éxito fue la aplicación móvil desde la que se puede solicitar el servicio de transporte desde un punto a otro de la ciudad. Esta aplicación incorpora ciertas características que supusieron una gran mejora en cuanto a la comodidad del usuario relativas a las circunstancias relacionadas con el viaje, sobre todo el poder conocer el precios del trayecto antes de ejecutarlo y también tener la posibilidad de elegir el tipo de coche y posteriormente valorarlo.  
 
 Aunque originalmente Uber se circunscribía sólo a los viajes, posteriormente añadió la funcionalidad de poder pedir comida a domicilio. Con ello, amplió el volumen de interacción con los usuarios y aumentó los servicios que podía prestar.
 
@@ -60,13 +60,14 @@ Los medios que incorpora Uber son los siguientes:
 
 ### Referencias y Bibliografía
 
-* Adell Español, Ferran. **Fundamentos y evolución de la multimedia** [Enlace](https://cultura-digital.aula.uoc.edu/es/)
+* Adell Español, Ferran. (2024) **Fundamentos y evolución de la multimedia** [Enlace](https://cultura-digital.aula.uoc.edu/es/)
+* Alberich-Pascual, Jordi. (2018). **Elementos de la creatividad multimedia: apropiación, remediación, hibridación**. Mosaic, 2018.[Enlace](https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/)
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Imágen inicial: [Vecteezy](https://support.vecteezy.com/lang/es/)
-* Web de Kahoot: [Kahoot](https://kahoot.com/)
-* Web de Uber: [Uber](https://www.uber.com/es/es-es/)
+* Imágen de Kahoot: [Kahoot](https://kahoot.com/)
+* Imágen de Uber: [Uber](https://www.uber.com/es/es-es/)
 
 
 ----
 
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY
