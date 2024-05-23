@@ -1,13 +1,11 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
-
+# <p align="center">PEC3: Visionando el futuro con las gafas de Manovich</p>
+### **<p align="center">Redescubriendo la hibridación</p>**
 
 Autor: David Prados Ponce
 
-
-Fecha: 18/05/2024
+Fecha: 23/05/2024
 
 ![Cultura Digital](https://github.com/DavidUoc1/PEC3_Manovich_Reloaded/assets/169718411/42c50cb9-95bd-4d5c-a2a2-6bd861a61955)
-
 
 
 ## Introducción
